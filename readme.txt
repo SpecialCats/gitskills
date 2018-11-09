@@ -12,3 +12,4 @@ new content in master
 
 fix a bug in issue branch
 
+new content in master.
