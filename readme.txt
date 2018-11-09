@@ -7,3 +7,5 @@ add a new content.
 add a new content second.
 
 test add branch
+
+new content in master
